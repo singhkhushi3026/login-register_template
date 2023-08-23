@@ -1,11 +1,14 @@
-# Elegant Login & Register Forms built in React
-![Screen Shot 2022-07-25 at 10 55 45 PM](https://user-images.githubusercontent.com/50160672/180913657-95824335-8089-4be3-91ba-6a0cbaef3d71.png)
+# Frontend template Login & Register Forms built in React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is made by using REACT and used Material UI for cool components
 
 ## Available Scripts
 
-In the project directory, you can run:
+First add all necessary modules to run the react-app
+
+### `npm i`
+
+then, in the project directory, you can run:
 
 ### `npm start`
 
