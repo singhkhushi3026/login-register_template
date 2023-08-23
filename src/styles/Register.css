@@ -1,0 +1,84 @@
+.auth-form-container,
+.register-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+}
+
+h1 {
+  text-align: left;
+  margin-left: 171px;
+}
+
+.auth-form-container {
+  width: 50%;
+  height: 100vh;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+.register-form {
+  margin-left: 171px;
+}
+label {
+  text-align: left;
+  padding: 0.25rem 0;
+  margin-bottom: 0;
+}
+
+input {
+  margin: 0.3rem 0;
+  padding: 1rem;
+  border: 2px solid #616161;
+  border-radius: 10px;
+}
+button {
+  border: none;
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  cursor: pointer;
+  color: white;
+}
+
+.link-btn {
+  background: none;
+  color: black;
+  text-decoration: underline;
+  width: 680px;
+}
+
+.register {
+  background-color: #7439db;
+  margin-top: 7px;
+  margin-bottom: 5px;
+  width: 335px;
+  font-size: 18px;
+}
+.container-2 {
+  background-color: #7439db;
+  width: 50%;
+  height: 100vh;
+}
+.card {
+  background-color: #a184f0;
+  margin: 150px 60px;
+  padding: 10px 0 0px 10px;
+  background-image: url(/src/images/img.png);
+  background-repeat: no-repeat;
+  height: 57vh;
+  text-align: start;
+  font-size: 24px;
+  color: white;
+  border-radius: 4px;
+}
+
+@media screen and (max-width: 800px) {
+  .container-2 {
+    visibility: hidden;
+  }
+}
