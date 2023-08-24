@@ -14,3 +14,8 @@ then, in the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+##Contributors
+<a href="https://github.com/CodeWizard-Ishu/login-register_template/graphs/contributors" align="center">
+  <img src="https://contrib.rocks/image?repo=CodeWizard-Ishu/login-register_template" />
+</a>
