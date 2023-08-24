@@ -47,7 +47,7 @@ const Register = (props) => {
             value={pass}
             onChange={(e) => setPass(e.target.value)}
             type="password"
-            placeholder="********"
+            placeholder="password"
             id="password"
             name="password"
             required
